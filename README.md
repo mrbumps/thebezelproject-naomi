@@ -2,7 +2,7 @@
  
 OVERVIEW
 
-This is a bezel back for the bezel project to support Sega Naomi.
+This is a bezel pack for the bezel project to support Sega Naomi.
 
 The bezel packs are used in a RetroPie build for providing game bezels.
 
